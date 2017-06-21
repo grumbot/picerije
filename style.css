@@ -1,0 +1,89 @@
+body {
+    background-image:url(http://www.etrafika.net/slike/2015/08/pica-hrana.jpeg); 
+}
+header h1 {
+   font-weight: bold;
+   text-align: center;
+   font-family: cursive;
+   font-size: 35px;
+   border: 3px solid red;
+}
+nav{
+   list-style-type: none;
+   margin: 0;
+   padding: 0;
+}
+span {
+	color: red;
+	font-weight: bold;
+	font-style: cursive;
+}
+nav ul{
+ list-style-type: none;
+   float: left;
+   margin: 0;
+   padding: 0;
+   border: 1px solid red;
+   border-top-width:7px;
+   border-left-width:7px;
+   border-radius: 8px;
+   background-color: black;
+   width: 895px; 
+}
+nav ul li{
+ list-style-type: none;
+ display: inline-block;
+ color: white;
+ padding: 15px;
+ margin: 0;
+ font-size: 20px;
+ background-color: black;
+}
+nav ul li a{
+ text-decoration: none;
+ list-style-type: none;
+ display: inline-block;
+ color: white;
+ padding: 15px;
+ font-size: 20px;
+}
+article p {
+	font-family: Tahoma;
+	font-style: italic;
+	font-size: 14px;
+}
+article li {
+	font-family: Tahoma;
+	font-style: italic;
+	font-size: 14px;
+}
+#sadrzaj {
+	margin-top: 20px;
+	float: left;
+}
+#okvir {
+	margin-left: auto;
+	margin-right: auto;
+	border: 3px solid black;
+	width: 900px;
+	height: auto; 
+	background-color: grey;
+}
+#footer {
+	clear: both;
+}
+#o-nama {
+	font-family: cursive;
+	font-weight: bold;
+	border: 3px solid red;
+}
+#jelovnik-i-cene {
+    font-family: cursive;
+	font-weight: bold;
+	border: 3px solid red;		
+}
+#kontaktirajte-nas {
+	font-family: cursive;
+	font-weight: bold;
+	border: 3px solid red;
+}
